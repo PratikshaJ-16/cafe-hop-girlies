@@ -38,13 +38,10 @@ The app combines Google Maps, Firebase Authentication, Firestore, AI-powered rec
 ---
 # 🎥 Demo
 
-Watch Cafe Hop Girlies in action!
-
-### 🗺️ Cafe Discovery & Maps
-▶️ https://youtube.com/shorts/c8hhcqNaQYQ
-
-### 🤖 AI Cafe Concierge
-▶️ https://youtube.com/shorts/mi7ivJ65Hgw
+| Feature | Demo |
+|---------|------|
+| 🗺️ Cafe Discovery & Maps | [▶️ Watch Demo](https://youtube.com/shorts/c8hhcqNaQYQ) |
+| 🤖 AI Cafe Concierge | [▶️ Watch Demo](https://youtube.com/shorts/mi7ivJ65Hgw) |
 ---
 # 📸 Screenshots
 
